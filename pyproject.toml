@@ -11,5 +11,7 @@ dependencies = [
     "matplotlib",
     "seaborn",
     "jupyterlab",
-    "xgboost"
+    "xgboost",
+    "nltk",
+    "kagglehub"
 ]
